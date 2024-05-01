@@ -17,7 +17,7 @@
 
     | Number | Item | Description |
     |:------:|:----:|:-----------:|
-    |Week one| Dialog Box, Name, Numbers|This week we went over comparing names, numbers in Java|
+    | Week one | Dialog Box, Name, Numbers | This week we went over comparing names, numbers in Java |
     |Week two|x,y,z|hello world!|
     |Week three|Conditionals|Averages and things of that nature|
     |Week four|While loops| Guess what number I'm thinking of?|
