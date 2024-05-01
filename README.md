@@ -16,23 +16,23 @@
     </p>
 
     | Number | Item | Description |
-    |:------:|----|-----------|
+    |:------:|:----:|:-----------:|
     |Week one| Dialog Box, Name, Numbers|This week we went over comparing names, numbers in Java|
-  |Week two|x,y,z|hello world!|
-  |Week three|Conditionals|Averages and things of that nature|
-  |Week four|While loops| Guess what number I'm thinking of?|
-  |Week five|Arrays| Struggled with this one a lot|
-  |Week six|Methods| Movie simulations|
-  |Week seven|Classes and Objects| Lots of variables and calling|
-  |Week eight|Midterm|I did really good!|
-  |Week nine|Spring break!|Pretty self explanitory lol|
-  |Week ten|Constructors|Overloaded!|
-  |Week eleven|Review of OOP concepts| Inheritance, Encapsulation, Polymorphism, and abstraction|
-  |Week twelve|Generics|Recursion!|
-  |Week thirteen|HashMaps|All the stacks|
-  |Week fourteen|Big O|Big solar eclipse!|
-  |Week fifteen|Insertion, Selection and Quick|Bubble and merge sort|
-  |Week sixteen|The tree|So much with the big O...|
+    |Week two|x,y,z|hello world!|
+    |Week three|Conditionals|Averages and things of that nature|
+    |Week four|While loops| Guess what number I'm thinking of?|
+    |Week five|Arrays| Struggled with this one a lot|
+    |Week six|Methods| Movie simulations|
+    |Week seven|Classes and Objects| Lots of variables and calling|
+    |Week eight|Midterm|I did really good!|
+    |Week nine|Spring break!|Pretty self explanitory lol|
+    |Week ten|Constructors|Overloaded!|
+    |Week eleven|Review of OOP concepts| Inheritance, Encapsulation, Polymorphism, and abstraction|
+    |Week twelve|Generics|Recursion!|
+    |Week thirteen|HashMaps|All the stacks|
+    |Week fourteen|Big O|Big solar eclipse!|
+    |Week fifteen|Insertion, Selection and Quick|Bubble and merge sort|
+    |Week sixteen|The tree|So much with the big O...|
   
 
   <h3 align="left"> Language and Tools: </h3>h3>
